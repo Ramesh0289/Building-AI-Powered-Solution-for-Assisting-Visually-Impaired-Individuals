@@ -24,11 +24,4 @@ This project leverages **Generative AI** and advanced image analysis techniques 
 - **OCR Libraries**: Text extraction from images (e.g., Tesseract, EasyOCR).  
 - **Image Analysis Tools**: Object detection and scene understanding (e.g., YOLO, OpenCV).  
 
----
 
-## 🚀 Installation and Usage  
-
-1. **Clone the Repository**  
-   ```bash
-   git clone [repository-link]
-   cd [repository-folder]
